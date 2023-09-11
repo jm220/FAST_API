@@ -1,0 +1,8 @@
+Note:
+
+Different Spotify API:
+- One allows you to query stuff from the library: artist, album, etc
+- Another api allows us to control somebody's spotfiy player, and have info of their profile & playlist
+  You need to authenticate a user for this to work
+
+https://developer.spotify.com/documentation/web-api/tutorials/client-credentials-flow
